@@ -16,5 +16,7 @@
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="work_directory_display_name">仕事用プロファイルの連絡先</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">新しいメッセージ</string>
 </resources>
