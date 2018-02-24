@@ -17,7 +17,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
+  <string name="mediapicker_galleryChooserDescription_custom">Zgjidh imazh ose video nga aparati</string>
+  <string name="mediapicker_audioListChooserDescription">Zgjidh audio nga aparati</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">S\'mund te vendos videon. Madhesia mesazhit ka kaluar.</string>
+  <string name="mediapicker_audio_list_title">Zgjidh audio</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">Audio u zgjodh.</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">Audio nuk eshte zgjedhur.</string>
+  <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> zgjedhur</string>
   <!-- Swipe to delete conversation -->
+  <string name="swipe_to_delete_conversation_pref_title">Rreshqit per ta fshire</string>
+  <string name="swipe_to_delete_conversation_pref_summary">Rreshqit ne te djathten per te fshire biseden</string>
   <!-- Show emoticons -->
+  <string name="show_emoticons_pref_title">Aktivizo emotikons</string>
+  <string name="show_emoticons_pref_summary">Shfaq butonin e emocioneve ne tastiere</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">Mesazh i ri</string>
 </resources>
