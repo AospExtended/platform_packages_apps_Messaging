@@ -25,8 +25,8 @@
   <string name="mediapicker_audio_list_item_unselected_content_description">Ses seçilmedi.</string>
   <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> seçildi</string>
   <!-- Swipe to delete conversation -->
-  <string name="swipe_to_delete_conversation_pref_title">Silmek için hızlıca kaydır</string>
-  <string name="swipe_to_delete_conversation_pref_summary">Bir görüşmeyi silmek için sağa hızlıca kaydır</string>
+  <string name="swipe_to_delete_conversation_pref_title">Silmek için kaydır</string>
+  <string name="swipe_to_delete_conversation_pref_summary">Bir konuşmayı silmek için sağa kaydır</string>
   <!-- Show emoticons -->
   <string name="show_emoticons_pref_title">İfadeler erişimi</string>
   <string name="show_emoticons_pref_summary">Klavyede ifadeler simgesini göster</string>
