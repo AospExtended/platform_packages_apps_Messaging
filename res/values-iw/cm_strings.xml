@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Swipe to delete conversation -->
   <string name="swipe_to_delete_conversation_pref_title">החלק כדי למחוק</string>
-  <string name="swipe_to_delete_conversation_pref_summary">החלק ימינה כדי למחוק שיחה</string>
+  <string name="swipe_right_deletes_conversation_text">החלק ימינה כדי למחוק שיחה</string>
   <!-- Show emoticons -->
   <string name="show_emoticons_pref_title">גישה לרגישונים</string>
   <string name="show_emoticons_pref_summary">הצג את לחצן הרגישונים במקלדת</string>
