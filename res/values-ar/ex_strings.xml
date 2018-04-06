@@ -25,10 +25,10 @@
   <string name="mediapicker_audio_list_item_unselected_content_description">تم إلغاء تحديد الملف الصوتي.</string>
   <string name="mediapicker_audio_list_title_selection">تم تحديد <xliff:g id="Count">%d</xliff:g></string>
   <!-- Swipe to delete conversation -->
-  <string name="swipe_to_delete_conversation_pref_title">اسحب إلى للحذف</string>
+  <string name="swipe_to_delete_conversation_pref_title">اسحب للحذف</string>
   <string name="swipe_to_delete_conversation_pref_summary">اسحب لليمين لحذف المحادثة</string>
   <!-- Show emoticons -->
-  <string name="show_emoticons_pref_title">رموز الوصول</string>
+  <string name="show_emoticons_pref_title">الوصول إلى التعبيرات</string>
   <string name="show_emoticons_pref_summary">إظهار مفتاح الرموز على لوحة المفاتيح</string>
   <!-- Shortcuts -->
   <string name="shortcuts_compose_new">رسالة جديدة</string>
