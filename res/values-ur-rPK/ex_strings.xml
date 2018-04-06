@@ -20,4 +20,5 @@
   <!-- Swipe to delete conversation -->
   <!-- Show emoticons -->
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">نيا پيغام</string>
 </resources>
