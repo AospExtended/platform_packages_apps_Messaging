@@ -17,7 +17,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
+  <string name="mediapicker_galleryChooserDescription_custom">בחר תמונות או קטעי וידאו ממכשיר זה</string>
+  <string name="mediapicker_audioListChooserDescription">בחר קבצי שמע ממכשיר זה</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">לא ניתן לצרף וידאו. הגעת למגבלת נפח ההודעה.</string>
+  <string name="mediapicker_audio_list_title">בחר קובץ שמע</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">קובץ השמע נבחר.</string>
   <!-- Swipe to delete conversation -->
+  <string name="swipe_to_delete_conversation_pref_title">החלק כדי למחוק</string>
+  <string name="swipe_to_delete_conversation_pref_summary">החלק ימינה בכדי למחוק שיחה</string>
   <!-- Show emoticons -->
+  <string name="show_emoticons_pref_title">גישה לאמוג\'ים</string>
+  <string name="show_emoticons_pref_summary">הצג את לחצן האמוג\'ים במקלדת</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">הודעה חדשה</string>
 </resources>
