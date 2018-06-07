@@ -19,5 +19,7 @@
   <!-- Video and audio attachments -->
   <!-- Swipe to delete conversation -->
   <!-- Show emoticons -->
+  <string name="show_emoticons_pref_summary">نمایش کلید شکلک ها بر روی کیبورد</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">پیام جدید</string>
 </resources>

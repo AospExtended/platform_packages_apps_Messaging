@@ -17,7 +17,16 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
+  <string name="mediapicker_galleryChooserDescription_custom">ಇಮೇಜ್ ಅಥವಾ ವೀಡಿಯೋಗಳನ್ನು ಈ ಡಿವೈಸ್ ನಿಂದ ಆಯ್ಕೆ ಮಾಡಿ</string>
+  <string name="mediapicker_audioListChooserDescription">ಆಡಿಯೋ ಫೈಲುಗಳನ್ನು ಈ ಡಿವೈಸ್ ನಿಂದ ಆಯ್ಕೆ ಮಾಡಿ</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">ವೀಡಿಯೊವನ್ನು ಲಗತ್ತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಗರಿಷ್ಠ ಸಂದೇಶ ಗಾತ್ರ ಮೀರಿದೆ.</string>
+  <string name="mediapicker_audio_list_title">ಆಡಿಯೋ ಆಯ್ಕೆಮಾಡಿ</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">ಆಡಿಯೋವನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ.</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">ಆಡಿಯೋವನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗಿಲ್ಲ.</string>
   <!-- Swipe to delete conversation -->
+  <string name="swipe_to_delete_conversation_pref_title">ಅಳಿಸಲು ಸ್ವೈಪ್ ಮಾಡಿ</string>
+  <string name="swipe_to_delete_conversation_pref_summary">ಸಂವಾದವನ್ನು ಅಳಿಸಲು ಬಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ</string>
   <!-- Show emoticons -->
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">ಹೊಸ ಸಂದೇಶ</string>
 </resources>
