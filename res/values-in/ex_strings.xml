@@ -33,4 +33,5 @@
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Pesan baru</string>
     <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Tandai telah terbaca</string>
 </resources>

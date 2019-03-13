@@ -17,8 +17,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Swipe to delete conversation -->
+    <string name="swipe_to_delete_conversation_pref_title">Leret untuk memadam</string>
+    <string name="swipe_to_delete_conversation_pref_summary">Leret ke kanan untuk memadam perbualan</string>
     <!-- Show emoticons -->
+    <string name="show_emoticons_pref_title">Akses emotikon</string>
+    <string name="show_emoticons_pref_summary">Tunjukkan kekunci emotikon pada papan kekunci</string>
     <!-- Audio Library Tab for MMS attachments -->
+    <string name="mediapicker_galleryChooserDescription_cm">Pilih imej atau video dari peranti ini</string>
+    <string name="mediapicker_audioListChooserDescription">Pilih fail audio dari peranti ini</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">Tidak boleh melampirkan video. Saiz pesanan maksimum dilangkaui.</string>
+    <string name="mediapicker_audio_list_title">Pilih audio</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">Audio pilihan</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">Sentuh untuk pilih</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="bilangan">%d</xliff:g> dipilih</string>
     <!-- Shortcuts -->
+    <string name="shortcuts_compose_new">Mesej baru</string>
     <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Tandakan sebagai dibaca</string>
 </resources>
