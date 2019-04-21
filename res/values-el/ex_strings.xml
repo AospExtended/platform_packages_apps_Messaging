@@ -33,4 +33,5 @@
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Νέο μήνυμα</string>
     <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Σήμανση ως αναγνωσμένο</string>
 </resources>

@@ -29,7 +29,7 @@
     <string name="mediapicker_audio_list_title">音声ファイルを選択</string>
     <string name="mediapicker_audio_list_item_selected_content_description">選択した音声</string>
     <string name="mediapicker_audio_list_item_unselected_content_description">タップして選択</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="COUNT">%d</xliff:g> 件選択済み</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="COUNT">%d</xliff:g>件選択済み</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">新しいメッセージ</string>
     <!-- Mark message as read -->
