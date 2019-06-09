@@ -33,4 +33,5 @@
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">ข้อความใหม่</string>
     <!-- Mark message as read -->
+    <string name="notification_mark_as_read">ทำเครื่องหมายว่าอ่านแล้ว</string>
 </resources>
