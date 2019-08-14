@@ -20,5 +20,7 @@
     <!-- Show emoticons -->
     <!-- Audio Library Tab for MMS attachments -->
     <!-- Shortcuts -->
+    <string name="shortcuts_compose_new">नयाँ सन्देश</string>
     <!-- Mark message as read -->
+    <string name="notification_mark_as_read">पढिएको भनि चिन्ह लगाउनुहोस्</string>
 </resources>
